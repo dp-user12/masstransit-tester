@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "MassTransitTester": {
+      "commandName": "Project"
+    }
+  }
+}
